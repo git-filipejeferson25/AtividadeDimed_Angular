@@ -1,0 +1,77 @@
+.container {
+    margin-top: 60px;
+}
+
+.campopesquisa {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.campo {
+    width: 100%;
+}
+
+.add-linha {
+    margin-bottom: 40px;
+}
+
+.card-header {
+    height: 60px;
+    background-color: #42c9ff;
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.list-linha {
+    margin-bottom: 40px;
+}
+
+.card-body {
+    margin-bottom: 50px;
+    max-width: 100%;
+    max-height: 400px;
+    height: auto;
+    overflow: scroll;
+}
+
+.btn-add-linha {
+    margin-right: 10px;
+    background-color: #42c9ff;
+}
+
+.breadcrumb {
+    height: 100px;
+    background-color: #42c9ff;
+}
+
+.breadcrumb-item {
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 15px;
+    margin-left: 580px;
+}
+
+.btn-warning {
+    background-color: #42c9ff;
+    color: #ffffff;
+    border-color: #42c9ff;
+    width: 80px;
+}
+
+.btn-warning:hover {
+    background-color: #ffffff;
+    color: #42c9ff;
+    border-color: #42c9ff;
+    width: 80px;
+}
+
+.btn-danger {
+    background-color: #e90101;
+    color: #ffffff;
+    border-color: #e90101;
+    width: 80px;
+}

@@ -1,0 +1,79 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item active" aria-current="page">Linhas de ônibus</li>
+    </ol>
+</nav>
+
+<div class="container">
+    <div>
+        <p>Na tabela abaixo aparece uma lista de linha de ônibus de Porto Alegre.</p>
+    </div>
+    <div class="card list-linha">
+        <h5 class="card-header">Lista de linhas de ônibus</h5>
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Código</th>
+                        <th scope="col">Nome</th>
+                        <th scope="col"> Ações</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr *ngFor="let linhaonibus of linhabus">
+                        <td>{{linhaonibus.id}}</td>
+                        <td>{{linhaonibus.codigo}}</td>
+                        <td>{{linhaonibus.nome}}</td>
+                        <td>
+                            <button type="button" class="btn btn-warning btn-sm" (click)="editLinhasOnibus(linhaonibus)">Editar</button>
+                            <button type="button" class="btn btn-danger btn-sm ml-1" (click)="deleteLinhasOnibus(linhaonibus)">Deletar</button>
+                        </td>
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div>
+        <p>Para atualizar uma linha de ônibus encontrada acima, você de primeiro selecionar a <br> linha que irá ser atualizada clicando em editar ao lado da linha que cosnta no quadro acima.</p>
+    </div>
+    <div class="card add-linha">
+        <h3 class="card-header">Adicionar/Atualizar linhas de ônibus</h3>
+        <div class="card-body">
+            <form id="add-form" (ngSubmit)="formulario.form.valid && saveLinhaOnibus(formulario)" #formulario="ngForm" novalidate>
+                <div class="form-group">
+                    <label for="id">Id</label>
+                    <input type="text" [(ngModel)]="linhaonibus.id" id="id" name="id" #id="ngModel" required class="form-control" [ngClass]="{ 'is-invalid': formulario.submitted && codigo.invalid }" placeholder="Digite o id da linha">
+                    <div *ngIf="formulario.submitted && id.invalid" class="invalid-feedback">
+                        <div *ngIf="id.errors!required">Id é obrigatório</div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="codigo">Código</label>
+                    <input type="text" [(ngModel)]="linhaonibus.codigo" id="codigo" name="codigo" #codigo="ngModel" required class="form-control" [ngClass]="{ 'is-invalid': formulario.submitted && codigo.invalid }" placeholder="Digite o código">
+                    <div *ngIf="formulario.submitted && codigo.invalid" class="invalid-feedback">
+                        <div *ngIf="codigo.errors!required">Código é obrigatório</div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="nome">Nome</label>
+                    <input type="text" [(ngModel)]="linhaonibus.nome" id="nome" name="nome" #nome="ngModel" required class="form-control" [ngClass]="{ 'is-invalid': formulario.submitted && nome.invalid }" placeholder="Digite o nome">
+                    <div *ngIf="formulario.submitted && nome.invalid" class="invalid-feedback">
+                        <div *ngIf="nome.errors!required">Nome é obrigatório</div>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-add-linha" (click)="saveLinhaOnibus(formulario)">Salvar</button>
+                <button type="reset" class="btn btn-secondary btn-add-linha" (click)="cleanForm(formulario)">Cancelar</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+
+<router-outlet></router-outlet>

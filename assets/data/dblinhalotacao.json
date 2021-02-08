@@ -1,0 +1,509 @@
+{
+  "linhalotacao": [
+    {
+      "id": "29",
+      "codigo": "20.5-1",
+      "nome": "ALTO TERESOPOLIS / VIA PRAIA DE BELAS"
+    },
+    {
+      "id": "30",
+      "codigo": "20.5-2",
+      "nome": "ALTO TERESOPOLIS - VIA PRAIA DE BELAS"
+    },
+    {
+      "id": "86",
+      "codigo": "E60.6-2",
+      "nome": "ASSIS BRASIL/BALTAZAR - EVENTOS"
+    },
+    {
+      "id": "52",
+      "codigo": "50.11-1",
+      "nome": "AUXILIADORA - ANITA"
+    },
+    {
+      "id": "97",
+      "codigo": "50.11-2",
+      "nome": "AUXILIADORA - ANITA"
+    },
+    {
+      "id": "51",
+      "codigo": "50.1-1",
+      "nome": "AUXILIADORA/PADRE CHAGAS/ANITA"
+    },
+    {
+      "id": "96",
+      "codigo": "50.1-2",
+      "nome": "AUXILIADORA/PADRE CHAGAS/ANITA"
+    },
+    {
+      "id": "93",
+      "codigo": "10.7-2",
+      "nome": "BELEM NOVO"
+    },
+    {
+      "id": "94",
+      "codigo": "10.7-1",
+      "nome": "BELEM NOVO"
+    },
+    {
+      "id": "87",
+      "codigo": "10.71-1",
+      "nome": "BELEM NOVO VIA CHAPEU DO SOL"
+    },
+    {
+      "id": "88",
+      "codigo": "10.71-2",
+      "nome": "BELEM NOVO VIA CHAPEU DO SOL"
+    },
+    {
+      "id": "33",
+      "codigo": "30.1-1",
+      "nome": "CANAL 10 VIA APARÍCIO BORGES"
+    },
+    {
+      "id": "34",
+      "codigo": "30.1-2",
+      "nome": "CANAL 10 VIA APARÍCIO BORGES"
+    },
+    {
+      "id": "35",
+      "codigo": "30.11-1",
+      "nome": "CANAL 10 VIA APARÍCIO BORGES/ANTONIO RIBEIRO"
+    },
+    {
+      "id": "36",
+      "codigo": "30.11-2",
+      "nome": "CANAL 10 VIA APARÍCIO BORGES/ANTONIO RIBEIRO"
+    },
+    {
+      "id": "13",
+      "codigo": "10.3-1",
+      "nome": "CRISTAL/OTTO NIEMEYER"
+    },
+    {
+      "id": "14",
+      "codigo": "10.3-2",
+      "nome": "CRISTAL/OTTO NIEMEYER"
+    },
+    {
+      "id": "31",
+      "codigo": "20.6-1",
+      "nome": "GLORIA"
+    },
+    {
+      "id": "32",
+      "codigo": "20.6-2",
+      "nome": "GLORIA"
+    },
+    {
+      "id": "79",
+      "codigo": "20.61-2",
+      "nome": "GLORIA - A PARTIR DAS 21H"
+    },
+    {
+      "id": "80",
+      "codigo": "20.61-1",
+      "nome": "GLORIA - A PARTIR DAS 21H"
+    },
+    {
+      "id": "19",
+      "codigo": "10.51-1",
+      "nome": "GUARUJA - CAVALHADA"
+    },
+    {
+      "id": "20",
+      "codigo": "10.51-2",
+      "nome": "GUARUJA - CAVALHADA"
+    },
+    {
+      "id": "17",
+      "codigo": "10.5-1",
+      "nome": "GUARUJA - WENCESLAU ESCOBAR"
+    },
+    {
+      "id": "18",
+      "codigo": "10.5-2",
+      "nome": "GUARUJA - WENCESLAU ESCOBAR"
+    },
+    {
+      "id": "90",
+      "codigo": "10.52-2",
+      "nome": "GUARUJA/PONTA GROSSA"
+    },
+    {
+      "id": "58",
+      "codigo": "50.6-1",
+      "nome": "GUERINO/LINDOIA"
+    },
+    {
+      "id": "59",
+      "codigo": "50.6-2",
+      "nome": "GUERINO/LINDOIA"
+    },
+    {
+      "id": "60",
+      "codigo": "50.61-1",
+      "nome": "GUERINO/LINDOIA/AUXILIADORA"
+    },
+    {
+      "id": "98",
+      "codigo": "50.61-2",
+      "nome": "GUERINO/LINDOIA/AUXILIADORA"
+    },
+    {
+      "id": "61",
+      "codigo": "50.8-1",
+      "nome": "HIGIENOPOLIS-HOSPITAL MILITAR"
+    },
+    {
+      "id": "62",
+      "codigo": "50.8-2",
+      "nome": "HIGIENOPOLIS-HOSPITAL MILITAR"
+    },
+    {
+      "id": "69",
+      "codigo": "60.21-1",
+      "nome": "HOSPITAL CONCEICAO-IGUATEMI"
+    },
+    {
+      "id": "70",
+      "codigo": "60.21-2",
+      "nome": "HOSPITAL CONCEICAO-IGUATEMI"
+    },
+    {
+      "id": "67",
+      "codigo": "60.2-1",
+      "nome": "HOSPITAL CONCEICAO-VILA IPIRANGA"
+    },
+    {
+      "id": "68",
+      "codigo": "60.2-2",
+      "nome": "HOSPITAL CONCEICAO-VILA IPIRANGA"
+    },
+    {
+      "id": "53",
+      "codigo": "50.2-1",
+      "nome": "IAPI - AUXILIADORA"
+    },
+    {
+      "id": "99",
+      "codigo": "50.2-2",
+      "nome": "IAPI - AUXILIADORA"
+    },
+    {
+      "id": "15",
+      "codigo": "10.4-1",
+      "nome": "IPANEMA"
+    },
+    {
+      "id": "16",
+      "codigo": "10.4-2",
+      "nome": "IPANEMA"
+    },
+    {
+      "id": "4",
+      "codigo": "03.1-1",
+      "nome": "IPIRANGA/ PUC - BORGES"
+    },
+    {
+      "id": "5",
+      "codigo": "03.1-2",
+      "nome": "IPIRANGA/ PUC - BORGES"
+    },
+    {
+      "id": "6",
+      "codigo": "03.3-1",
+      "nome": "JARDIM BOTANICO/JARDIM DO SALSO"
+    },
+    {
+      "id": "95",
+      "codigo": "03.3-2",
+      "nome": "JARDIM BOTANICO/JARDIM DO SALSO"
+    },
+    {
+      "id": "73",
+      "codigo": "60.5-1",
+      "nome": "JARDIM DONA LEOPOLDINA-ASSIS BRASIL"
+    },
+    {
+      "id": "74",
+      "codigo": "60.5-2",
+      "nome": "JARDIM DONA LEOPOLDINA-ASSIS BRASIL"
+    },
+    {
+      "id": "27",
+      "codigo": "20.4-1",
+      "nome": "JARDIM VILA NOVA"
+    },
+    {
+      "id": "28",
+      "codigo": "20.4-2",
+      "nome": "JARDIM VILA NOVA"
+    },
+    {
+      "id": "63",
+      "codigo": "20.42-2",
+      "nome": "JARDIM VILA NOVA/AMAPA"
+    },
+    {
+      "id": "64",
+      "codigo": "20.42-1",
+      "nome": "JARDIM VILA NOVA/AMAPA"
+    },
+    {
+      "id": "45",
+      "codigo": "40.2-1",
+      "nome": "JOAO ABOTT"
+    },
+    {
+      "id": "46",
+      "codigo": "40.2-2",
+      "nome": "JOAO ABOTT"
+    },
+    {
+      "id": "21",
+      "codigo": "20.1-1",
+      "nome": "MEDIANEIRA"
+    },
+    {
+      "id": "22",
+      "codigo": "20.1-2",
+      "nome": "MEDIANEIRA"
+    },
+    {
+      "id": "23",
+      "codigo": "20.11-1",
+      "nome": "MEDIANEIRA / MORRO SAO CAETANO"
+    },
+    {
+      "id": "24",
+      "codigo": "20.11-2",
+      "nome": "MEDIANEIRA / MORRO SAO CAETANO"
+    },
+    {
+      "id": "0",
+      "codigo": "02.1-1",
+      "nome": "MENINO DEUS"
+    },
+    {
+      "id": "1",
+      "codigo": "02.1-2",
+      "nome": "MENINO DEUS"
+    },
+    {
+      "id": "2",
+      "codigo": "02.11-1",
+      "nome": "MENINO DEUS/ VIA JOSE DO PATROCINIO"
+    },
+    {
+      "id": "3",
+      "codigo": "02.11-2",
+      "nome": "MENINO DEUS/ VIA JOSE DO PATROCINIO"
+    },
+    {
+      "id": "56",
+      "codigo": "50.31-1",
+      "nome": "MONSERRAT - IPA"
+    },
+    {
+      "id": "57",
+      "codigo": "50.31-2",
+      "nome": "MONSERRAT - IPA"
+    },
+    {
+      "id": "54",
+      "codigo": "50.3-1",
+      "nome": "MONTSERRAT-ANITA"
+    },
+    {
+      "id": "55",
+      "codigo": "50.3-2",
+      "nome": "MONTSERRAT-ANITA"
+    },
+    {
+      "id": "9",
+      "codigo": "20.21-1",
+      "nome": "OTTO TERESÓPOLIS/CAMPO NOVO"
+    },
+    {
+      "id": "10",
+      "codigo": "20.21-2",
+      "nome": "OTTO TERESÓPOLIS/CAMPO NOVO"
+    },
+    {
+      "id": "25",
+      "codigo": "20.2-1",
+      "nome": "OTTO/TERESÓPOLIS"
+    },
+    {
+      "id": "26",
+      "codigo": "20.2-2",
+      "nome": "OTTO/TERESÓPOLIS"
+    },
+    {
+      "id": "75",
+      "codigo": "60.6-1",
+      "nome": "PARQUE DOS MAIAS/ASSIS BRASIL"
+    },
+    {
+      "id": "76",
+      "codigo": "60.6-2",
+      "nome": "PARQUE DOS MAIAS/ASSIS BRASIL"
+    },
+    {
+      "id": "71",
+      "codigo": "60.4-1",
+      "nome": "PARQUE HUMAITA"
+    },
+    {
+      "id": "72",
+      "codigo": "60.4-2",
+      "nome": "PARQUE HUMAITA"
+    },
+    {
+      "id": "39",
+      "codigo": "30.21-1",
+      "nome": "PARTENON/PINHEIRO/CAMPUS"
+    },
+    {
+      "id": "40",
+      "codigo": "30.21-2",
+      "nome": "PARTENON/PINHEIRO/CAMPUS"
+    },
+    {
+      "id": "37",
+      "codigo": "30.2-1",
+      "nome": "PARTENON/PINHEIRO/PARADA 21"
+    },
+    {
+      "id": "38",
+      "codigo": "30.2-2",
+      "nome": "PARTENON/PINHEIRO/PARADA 21"
+    },
+    {
+      "id": "43",
+      "codigo": "40.42-2",
+      "nome": "PETROPOLIS - IRMAOS MARISTAS"
+    },
+    {
+      "id": "44",
+      "codigo": "40.42-1",
+      "nome": "PETROPOLIS - IRMAOS MARISTAS"
+    },
+    {
+      "id": "49",
+      "codigo": "40.41-1",
+      "nome": "PETROPOLIS / FAPA"
+    },
+    {
+      "id": "50",
+      "codigo": "40.41-2",
+      "nome": "PETROPOLIS / FAPA"
+    },
+    {
+      "id": "47",
+      "codigo": "40.4-1",
+      "nome": "PETROPOLIS/SESC"
+    },
+    {
+      "id": "48",
+      "codigo": "40.4-2",
+      "nome": "PETROPOLIS/SESC"
+    },
+    {
+      "id": "85",
+      "codigo": "E30.2-2",
+      "nome": "PRAIA DE BELAS/PARTENON/A.CARVALHO - EVENTOS"
+    },
+    {
+      "id": "100",
+      "codigo": "10.6-1",
+      "nome": "RESTINGA"
+    },
+    {
+      "id": "101",
+      "codigo": "10.6-2",
+      "nome": "RESTINGA"
+    },
+    {
+      "id": "77",
+      "codigo": "10.61-2",
+      "nome": "RESTINGA NOVA"
+    },
+    {
+      "id": "78",
+      "codigo": "10.61-1",
+      "nome": "RESTINGA NOVA"
+    },
+    {
+      "id": "81",
+      "codigo": "10.62-2",
+      "nome": "RESTINGA VELHA"
+    },
+    {
+      "id": "82",
+      "codigo": "10.62-1",
+      "nome": "RESTINGA VELHA"
+    },
+    {
+      "id": "7",
+      "codigo": "05.1-1",
+      "nome": "RIO BRANCO/VIA IPA"
+    },
+    {
+      "id": "8",
+      "codigo": "05.1-2",
+      "nome": "RIO BRANCO/VIA IPA"
+    },
+    {
+      "id": "41",
+      "codigo": "30.3-1",
+      "nome": "Santana/Bom Fim"
+    },
+    {
+      "id": "42",
+      "codigo": "30.3-2",
+      "nome": "Santana/Bom Fim"
+    },
+    {
+      "id": "65",
+      "codigo": "60.1-1",
+      "nome": "SARANDI/ASSIS BRASIL"
+    },
+    {
+      "id": "66",
+      "codigo": "60.1-2",
+      "nome": "SARANDI/ASSIS BRASIL"
+    },
+    {
+      "id": "83",
+      "codigo": "E60.1-1",
+      "nome": "SARANDI/EVENTOS FIERGS"
+    },
+    {
+      "id": "84",
+      "codigo": "E60.1-2",
+      "nome": "SARANDI/EVENTOS FIERGS"
+    },
+    {
+      "id": "91",
+      "codigo": "E6011-1",
+      "nome": "SARANDI/EVENTOS SEVERO DULLIUS"
+    },
+    {
+      "id": "92",
+      "codigo": "E6011-2",
+      "nome": "SARANDI/EVENTOS SEVERO DULLIUS"
+    },
+    {
+      "id": "11",
+      "codigo": "10.1-1",
+      "nome": "TRISTEZA/ASSUNCAO"
+    },
+    {
+      "id": "12",
+      "codigo": "10.1-2",
+      "nome": "TRISTEZA/ASSUNÇÃO"
+    }
+  ]
+}
